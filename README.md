@@ -17,6 +17,8 @@ sudo docker run -d --name s2-1 -p 9002:80 n-s-2:0.1.0  // serv-a
 sudo docker run -d --name s3-1 -p 9003:80 n-s-3:0.1.0  // serv-b
 sudo docker run -d --name lb-1 -p 9004:80 n-s-4:0.1.0  // lb
 
+// sudo docker run -d --name ~ --network aaa ~ 등 network를 지정함으로써 network connect 생략 가능함.
+
 ```
 
 <hr />
