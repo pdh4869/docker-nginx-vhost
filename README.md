@@ -38,6 +38,6 @@ sudo docker network inspect aaa // aaa에 세 컨테이너가 잘 묶였는지 �
 ### 결과 
 ![image](https://github.com/pdh4869/docker-nginx-vhost/assets/76561901/582a8260-fee3-4e8b-881d-c6d4e14a86b6)
 
-<hr />
+<br /> <br /> <br/>
 
 ![image](https://github.com/pdh4869/docker-nginx-vhost/assets/76561901/85872bb2-86d4-4c98-8c11-d3a2a8954ee7)
