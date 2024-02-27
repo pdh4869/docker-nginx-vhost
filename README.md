@@ -46,4 +46,5 @@ sudo docker network inspect aaa // aaa에 세 컨테이너가 잘 묶였는지 �
 
 
 ### nginx path routing
-
+- docker build, run, networking 
+- use jenkins 
